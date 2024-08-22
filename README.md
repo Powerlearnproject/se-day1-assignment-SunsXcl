@@ -11,9 +11,10 @@ It is important for the creation and maintenance of software applications and sy
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
-1. 1940's: Alan Turin introduced digital computing which required the first software.
-2. 1957: Grace Hooper created COBOL.
-3. 2000's: More complex computers introduced which required more complex software programs.
+1. The development of programming languages like FORTRAN and COBOL.
+2. Establishment of software engineering as a discipline in the 1960s.
+3. The advent of structured programming in the 1970s.
+4. The rise of agile software development methodologies in the 2000s.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
@@ -22,14 +23,14 @@ List and briefly explain the phases of the Software Development Life Cycle.
 3. Implementation: Write code to build the software as specified.
 4. Testing: Test code to ensure satisfactory functionality and standards compliance.
 5. Deployment: Release developed software to user.
-6. Maintenance: Provide support after release.
+6. Maintenance: Provide support, updates and enhancements after software release.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 Waterfall Vs Agile
-Contrast: Sequential approach / Incremental approach.
-Similarity: Both have distinct phases.
-Appropriate Scenario: less flexibility requirement / more flexibility requirement.
+Contrast: Sequential approach / Iterative and incremental approach.
+Similarity: Both leverage on collaboration.
+Appropriate Scenario: less flexibility required / more flexibility required.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
